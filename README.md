@@ -25,7 +25,7 @@ By providing intuitive and powerful tools, we aim to revolutionize the way sound
 ## Using our products
 
 You can find out more on how to use the various codes right [here](https://wavepal.wordpress.com/features-capabilities/)
-
+You can additionally find more explanations in each code foler, with the ppxt (most of them)
 
 ## Research
 
